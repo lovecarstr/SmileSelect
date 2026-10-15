@@ -1,5 +1,8 @@
 # SmileSelect
 
+> **Team project** · DIT356 Distributed Systems, University of Gothenburg (Nov 2024 – Jan 2025)  
+> **Team:** Erik Nisbet, Edvin Sanfridsson, Fredrik Nilsson, Love Carlander Strandäng, Martin Lidgren
+
 **SmileSelect** is a **full-stack web distributed system** to help book and manage dentist
 appointments within Sweden. It is designed to allow for thousands of users to search and book appointments concurrently.
 Partnered Dentists can also manage their work by publishing appointments or booking re-visits together with patients.
